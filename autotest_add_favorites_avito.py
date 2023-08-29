@@ -13,7 +13,7 @@ submit_button = driver.find_element(By.CSS_SELECTOR, ".desktop-usq1f1")
 
 # Нажать на кнопку.
 submit_button.click()
-
+time.sleep(5) # принудительное ожидание 5 секунд, чтобы изменения прогрузились и тест успел считать изменения
 # Выполняется проверка на добавление объявления в избранное. Результат теста выводится в консоль.
 item_name = driver.find_element(By.CSS_SELECTOR, ".desktop-p6xjn6")
 if item_name.text == "В избранном":
