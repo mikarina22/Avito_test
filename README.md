@@ -8,11 +8,11 @@
 
 
 Шаги для выполнения автотеста:
-1. Скачать <a href="https://github.com/mikarina22/Avito_test/blob/main/autotest_add_favorites_avito.py"> файл</a> теста <br />
+1. Скачать <a href="https://github.com/mikarina22/Avito_test/blob/main/update_autotest_add_favorites_avito_version2.py"> файл</a> теста <br />
 2. Запустить файл с тестом <br />
 3. Результат теста выводится в консоль после выполнения. <br />
 
 Если тест падает, использовать предыдущую версию
-1. Скачать <a href="https://github.com/mikarina22/Avito_test/blob/main/update_code_test.py"> файл</a> теста <br />
+1. Скачать <a href="https://github.com/mikarina22/Avito_test/blob/main/autotest_add_favorites_avito_version1.py"> файл</a> теста <br />
 2. Запустить файл с тестом <br />
 3. Результат теста выводится в консоль после выполнения. <br />
